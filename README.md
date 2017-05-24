@@ -7,6 +7,8 @@ Test task using ReactJS. (Router, add-delete-edit items in each route)
 
 ## Откройте в браузере фаил:
 > public/index.html
+## Или по ссылке:
+[https://nortsova.github.io/task-react/](https://nortsova.github.io/task-react/)
 
 ## Или используя режим разработчика
 
